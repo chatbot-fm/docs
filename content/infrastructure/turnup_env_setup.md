@@ -10,7 +10,7 @@ Please follow the instructions below to configure and build docker container.
 Turnup environment consist of the following parts:
   * [Docker](http://docker.com)
   * [Wireguard](http://wireguard.com)
-  * RSA keys pair  
+  * RSA keys pair
   * Google cloud project with attached billing account
   * Docker container with all tools configured
 
